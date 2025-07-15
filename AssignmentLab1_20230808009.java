@@ -5,7 +5,7 @@
 */
 import java.util.Scanner;
 
-public class AssigmentLab1_20230808009 {
+public class AssignmentLab1_20230808009 {
     public static void main(String[] args) {
         question1();
         question2();
